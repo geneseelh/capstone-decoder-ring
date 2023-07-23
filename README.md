@@ -1,6 +1,6 @@
 # Decoder Ring
 
-Decoder Ring is an application that allows users to communicate via “top-secret” messages via encryption and decryption features.
+Decoder Ring is application that allows users to communicate with “top-secret” messages via encryption and decryption features.
 
 ## Future Updates
 * NOTE: CSS Styling and further interactive functionality will be added.
